@@ -1,0 +1,99 @@
+@charset "utf-8";
+.container-fluid {
+    background-image: url(images/3687385.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.container-fluid .container h1 {
+    color: #F5F5F5;
+    font-style: italic;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    text-align: center;
+    text-shadow: 0px 4px 13px;
+}
+.card.col-md-4.col-lg-12 .card-body .card-title {
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    background-color: #000000;
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(1,1,1,1.00) 58.45%,rgba(169,68,19,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(1,1,1,1.00) 58.45%,rgba(169,68,19,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(1,1,1,1.00) 58.45%,rgba(169,68,19,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(1,1,1,1.00) 58.45%,rgba(169,68,19,1.00) 100.00%);
+}
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+    color: #FFFFFF;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #FFFFFF;
+}
+#headingOne1 .mb-0 a {
+}
+#accordion1 .card #headingOne1 {
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,1.00) 51.40%,rgba(255,120,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,0,0,1.00) 51.40%,rgba(255,120,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(0,0,0,1.00) 51.40%,rgba(255,120,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 51.40%,rgba(255,120,0,1.00) 100%);
+}
+#headingOne1 .mb-0 a {
+    color: #FFFFFF;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+}
+#accordion1 .card #headingTwo1 {
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,1.00) 62.59%,rgba(255,126,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,0,0,1.00) 62.59%,rgba(255,126,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(0,0,0,1.00) 62.59%,rgba(255,126,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 62.59%,rgba(255,126,0,1.00) 100%);
+}
+#headingTwo1 .mb-0 .collapsed {
+    color: #FCFAFA;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+}
+#headingThree1 .mb-0 .collapsed {
+    color: #FBF9F9;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+}
+.container #accordion1 .card {
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,1.00) 69.64%,rgba(255,101,0,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(0,0,0,1.00) 69.64%,rgba(255,101,0,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(0,0,0,1.00) 69.64%,rgba(255,101,0,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(0,0,0,1.00) 69.64%,rgba(255,101,0,1.00) 100.00%);
+}
+.card #collapseOne1 .card-body {
+    color: #FFFFFF;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+}
+.card #collapseTwo1 .card-body {
+    color: #FFFFFF;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+}
+.card #collapseThree1 .card-body {
+    color: #FFFFFF;
+}
+#accordion1 .card #collapseThree1 {
+    color: #FFFFFF;
+}
+.row .col-lg-4 .card.col-md-4.col-lg-12 {
+
+}
+.row .col-lg-4 .card.col-md-4.col-lg-12 {
+    background-image: url(images/3687385.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.col-lg-4 .card.col-md-4.col-lg-12 .card-body {
+    color: #F5F0F0;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    background-color: #0E0D0D;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    background-color: #0C0B0B;
+}
+.container-fluid .container h1 {
+    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
