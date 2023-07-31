@@ -1,0 +1,27 @@
+
+<html>
+<head>
+    <title>Redirect or Stay</title>
+</head>
+<body>
+    <h1>Redirect or Stay</h1>
+
+    <button onclick="redirectToGoogle()">Google</button>
+
+    <script>
+        function redirectToGoogle() {
+            var decision = confirm("Do you want to go to Google?");
+
+            if (decision) {
+                // If 'OK' is selected in the confirm box
+                window.location.href = "https://www.google.com"; // Redirect to Google
+            } else {
+                // If 'Cancel' is selected in the confirm box
+                var messageDiv = document.createElement("div");
+                messageDiv.innerHTML = "You decided to stay";
+                document.body.appendChild(messageDiv);
+            }
+        }
+    </script>
+</body>
+</html>

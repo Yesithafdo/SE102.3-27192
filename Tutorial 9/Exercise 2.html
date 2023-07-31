@@ -1,0 +1,47 @@
+
+<html>
+<head>
+    <title>Day of the Week</title>
+</head>
+<body>
+    <h1>Day of the Week</h1>
+
+    <button onclick="getDayOfWeek()">Get Day</button>
+
+    <script>
+        function getDayOfWeek() {
+            var input = prompt("Enter a number from 1 to 7:");
+            var day;
+
+            switch (parseInt(input)) {
+                case 1:
+                    day = "Monday";
+                    break;
+                case 2:
+                    day = "Tuesday";
+                    break;
+                case 3:
+                    day = "Wednesday";
+                    break;
+                case 4:
+                    day = "Thursday";
+                    break;
+                case 5:
+                    day = "Friday";
+                    break;
+                case 6:
+                    day = "Saturday";
+                    break;
+                case 7:
+                    day = "Sunday";
+                    break;
+                default:
+                    day = "Invalid input. Please enter a number from 1 to 7.";
+                    break;
+            }
+
+            alert(day);
+        }
+    </script>
+</body>
+</html>
